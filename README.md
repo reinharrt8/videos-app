@@ -1,3 +1,8 @@
+# Videos App
+
+Built with React, React Router DOM, Material UI, Axios.
+Fetch the videos from YouTube API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
